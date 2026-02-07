@@ -1,4 +1,4 @@
-/* file_walker_fixed.c - Safe recursive file search */
+/* Safe recursive file search */
 #define _POSIX_C_SOURCE 200809L
 #include <stdio.h>
 #include <stdlib.h>
